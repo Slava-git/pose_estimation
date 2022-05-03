@@ -1,5 +1,5 @@
 # Pose estimation for squats and dumbbell scaptions
-This repo aims to pose estimate and count squats or dumbbell scaptions and gives some help how do it properly.
+This repo aims to pose estimate and count squats or dumbbell scaptions and give some help how do it properly.
 
 # Requirements
 * Python>=3.7.0  
