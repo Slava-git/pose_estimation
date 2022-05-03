@@ -32,4 +32,4 @@ Process video you downloaded and return images when angle beetween knee, hip, an
 * --path - path to video
 
 # Results
-Refer to `squat_app/output`, `dumbbell_scaptions_app/output` to see results.
+Refer to [youtube](https://youtu.be/nfCSJX2R1TE) to see results.
