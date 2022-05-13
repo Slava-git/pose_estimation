@@ -9,12 +9,13 @@ This repo aims to pose estimate and count squats or dumbbell scaptions and give 
 ## Webcam
 `cd dumbbell_scaptions_app`    
 `python camera.py`  
-Process video directly via webcam realtime
+Process video directly via webcam realtime.
 
 ## Video
 `cd dumbbell_scaptions_app`    
 `python video.py --path path/video.mp4`  
-Process video you downloaded and return images when angle of arm is closest to 180 degree
+Process video you downloaded and return images when angle of arm is closest to 180 degree.  
+Refer to `output` to see results.
 ### Parameters
 * --path - path to video
 
@@ -22,12 +23,13 @@ Process video you downloaded and return images when angle of arm is closest to 1
 ## Webcam
 `cd squat_app`    
 `python camera.py`  
-Process video directly via webcam realtime
+Process video directly via webcam realtime.
 
 ## Video
 `cd squat_app`  
 `python video.py --path path/video.mp4`  
-Process video you downloaded and return images when angle beetween knee, hip, ankle is closest to 90 degree
+Process video you downloaded and return images when angle beetween knee, hip, ankle is closest to 90 degree.  
+Refer to `output` to see results.
 ### Parameters
 * --path - path to video
 
