@@ -15,7 +15,7 @@ Process video directly via webcam realtime.
 `cd dumbbell_scaptions_app`    
 `python video.py --path path/video.mp4`  
 Process video you downloaded and return images when angle of arm is closest to 180 degree.  
-Refer to `output` to see results.
+Results will be saved to `output`.
 ### Parameters
 * --path - path to video
 
@@ -29,7 +29,7 @@ Process video directly via webcam realtime.
 `cd squat_app`  
 `python video.py --path path/video.mp4`  
 Process video you downloaded and return images when angle beetween knee, hip, ankle is closest to 90 degree.  
-Refer to `output` to see results.
+Results will be saved to `output`.
 ### Parameters
 * --path - path to video
 
